@@ -59,20 +59,20 @@ namespace TestMoqTests
         }
 
         [Test, TestCaseSource(typeof(TestClass), nameof(TestCases))]
-        public void TestMust_CheckTestObject(DateTime testDate)
+        public DateTime TestMust_CheckTestObject(DateTime testDate)
         {
             FakeTransport testTransport = new FakeTransport("error");
             Messenger msg = new Messenger(testTransport);
-            //return new DateTime(1999,1,1);
+            return new DateTime(1999,2,2);
             //string result = msg.Send("test");
             //Assert.IsTrue(result == "error");
         }
 
         static IEnumerable TestCases()
         {
-            yield return new TestCaseData(new DateTime(1999, 2, 2)).Returns(new DateTime(1999,2,2));
-            yield return new TestCaseData(new DateTime(2000, 2, 2)).Returns(new DateTime(2000, 2, 2));
-            yield return new TestCaseData(new DateTime(2000, 1, 2)).Returns(new DateTime(2000, 2, 2));
+            yield return new TestCaseData(new DateTime(1999, 2, 2)).Returns(new DateTime(1999, 2, 2));
+            yield return new TestCaseData(new DateTime(2000, 2, 2)).Returns(new DateTime(1999, 2, 2));
+            yield return new TestCaseData(new DateTime(2000, 1, 2)).Returns(new DateTime(1999, 2, 2));
         }
 
         static DateTime[] TestDates()
