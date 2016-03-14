@@ -10,3 +10,15 @@ C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqT
 C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\NLog.config
 C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\Moq.dll
 C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\Moq.xml
+C:\git\TestMoq\TestMoqTests\bin\Debug\NLog.config
+C:\git\TestMoq\TestMoqTests\bin\Debug\TestMoqTests.dll
+C:\git\TestMoq\TestMoqTests\bin\Debug\TestMoqTests.pdb
+C:\git\TestMoq\TestMoqTests\bin\Debug\Moq.dll
+C:\git\TestMoq\TestMoqTests\bin\Debug\nunit.framework.dll
+C:\git\TestMoq\TestMoqTests\bin\Debug\TestMoq.exe
+C:\git\TestMoq\TestMoqTests\bin\Debug\TestMoq.pdb
+C:\git\TestMoq\TestMoqTests\bin\Debug\Moq.xml
+C:\git\TestMoq\TestMoqTests\bin\Debug\nunit.framework.xml
+C:\git\TestMoq\TestMoqTests\obj\Debug\TestMoqTests.csprojResolveAssemblyReference.cache
+C:\git\TestMoq\TestMoqTests\obj\Debug\TestMoqTests.dll
+C:\git\TestMoq\TestMoqTests\obj\Debug\TestMoqTests.pdb
