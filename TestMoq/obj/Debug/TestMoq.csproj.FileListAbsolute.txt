@@ -1,0 +1,12 @@
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoq\bin\Debug\TestMoq.exe.config
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoq\bin\Debug\TestMoq.exe
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoq\bin\Debug\TestMoq.pdb
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoq\obj\Debug\TestMoq.exe
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoq\obj\Debug\TestMoq.pdb
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoq\bin\Debug\NLog.config
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoq\bin\Debug\NLog.dll
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoq\bin\Debug\NLog.Targets.Gelf.dll
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoq\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoq\bin\Debug\NLog.xml
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoq\obj\Debug\TestMoq.csprojResolveAssemblyReference.cache

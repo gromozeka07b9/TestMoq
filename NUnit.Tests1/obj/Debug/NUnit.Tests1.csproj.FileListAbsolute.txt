@@ -1,0 +1,6 @@
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb

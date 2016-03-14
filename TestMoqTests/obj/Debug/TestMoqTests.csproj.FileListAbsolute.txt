@@ -1,0 +1,12 @@
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\TestMoqTests.dll
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\TestMoqTests.pdb
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\nunit.framework.dll
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\TestMoq.exe
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\TestMoq.pdb
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\nunit.framework.xml
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\obj\Debug\TestMoqTests.csprojResolveAssemblyReference.cache
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\obj\Debug\TestMoqTests.dll
+C:\Users\sergei.dyachenko\documents\visual studio 2015\Projects\TestMoq\TestMoqTests\obj\Debug\TestMoqTests.pdb
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\NLog.config
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\Moq.dll
+C:\Users\sergei.dyachenko\Documents\Visual Studio 2015\Projects\TestMoq\TestMoqTests\bin\Debug\Moq.xml
